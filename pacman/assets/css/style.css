@@ -1,0 +1,13 @@
+#canvas-maze{
+    background-color: black;
+}
+
+canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#canvas-sprites{
+    background: none;
+}
